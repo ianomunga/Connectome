@@ -4,8 +4,8 @@ in order to 'unbox' currently black-boxed ANN infrastructures that are NP-hard t
 
 The following research pathway is currently under experimentation:
 
-• To be able to define an identity tensor **I** such that it's forward propagation throughout the various weighted layers of the 
-Neural Network whose connectome is being mapped applied no transformation on the weights of individual nodes themselves.
+• To be able to define an identity tensor **Ɪ** such that it's forward propagation throughout the various weighted layers of the 
+Neural Network whose connectome is being mapped applies no transformation on the weights of individual nodes themselves.
 
 • Rather, this identity tensor would use self-attention to retain position, absolute value and signage of the weights. Since the 
 forward propagation be enabled through the neural networks' activation function, only the statistically significant nodes whose values
